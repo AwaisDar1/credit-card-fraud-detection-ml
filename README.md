@@ -28,5 +28,9 @@ This project applies machine learning techniques to detect fraudulent credit car
 - XGBoost
 - LightGBM
 
+## Dataset
+A publicly available credit card transaction dataset was used for this project.  
+The dataset is not included in this repository due to file size limitations.
+
 ## Results
 The project compares multiple machine learning algorithms and evaluates their effectiveness in detecting fraudulent financial transactions.
